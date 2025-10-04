@@ -1,5 +1,5 @@
 # Indonesia Mining Export Forecasting with ARIMA Intervention Analysis
-Time series forecasting of Indonesia mining export value using ARIMA model with Pulse Intervention analysis. Built with R statistical computing. This project implements time series forecasting for Indonesia's mining export value using ARIMA model with Pulse Intervention analysis to capture the impact of January 2022 intervention event.
+This project implements time series forecasting for Indonesia's mining export value using ARIMA model with Pulse Intervention analysis to capture the impact of January 2022 intervention event.
 
 ## 📊 Project Objectives
 
