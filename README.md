@@ -227,6 +227,7 @@ Original = (λ × Transformed + 1)^(1/λ)
 ## 👤 Author
 
 **Muhammad Dafha Syahrizal**
+
 Email: mdafhasyahrizal@gmail.com
 
 ## 📄 License
